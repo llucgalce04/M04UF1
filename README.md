@@ -31,7 +31,7 @@ Un enlace a la mejor web del mundo:
 Y [ESTO](https://enti.cat) es otro enlace.
 
 ## Imagen incrustada
-###EPICO
+### EPICO
 
 ![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/039/761/nerdfacecover.jpg)
 
