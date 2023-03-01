@@ -111,7 +111,10 @@ y este [enlace](https://enti.cat) es otro enlace.
 
 ![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/039/761/nerdfacecover.jpg)
 ![Prova GIF](https://media.tenor.com/d914QufzT_QAAAAC/cat-epico-meme.gif)
-![Prova Video](https://www.youtube.com/watch?v=1JblVElt5K0&ab_channel=AutomationStepbyStep)
+<video controls>
+  <source src="https://www.youtube.com/watch?v=1JblVElt5K0&ab_channel=AutomationStepbyStep">
+</video>
+
 
 ### Ejemplo de resaltado de sintaxis
 
