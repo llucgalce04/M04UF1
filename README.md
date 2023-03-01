@@ -16,7 +16,7 @@ XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza p
 >
 >>**\<elemento/>**
 
-# Ejemplo de COdigo de XML
+# Ejemplo de Codigo de XML
 ```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 
