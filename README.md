@@ -32,4 +32,4 @@ Y [ESTO](https://enti.cat) es otro enlace.
 
 ## Imagen incrustada
 
-![Josue Sallent](https://punttic.gencat.cat/sites/default/files/styles/large/public/josue_01.jpg?itok=dCkhQHVO)
+![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/021/665/DpQ9YJl.png)
