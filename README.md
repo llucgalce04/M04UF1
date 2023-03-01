@@ -6,6 +6,8 @@ Aquí irán los apuntes de **XML**
 
 * uno
 * dos
+	* sub apartado de 2
+	* otro más
 * tres
 
 ## DTD
