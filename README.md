@@ -29,3 +29,7 @@ Un enlace a la mejor web del mundo:
 
 [CondorChem](https://condorchem.com)
 Y [ESTO](https://enti.cat) es otro enlace.
+
+## Imagen incrustada
+
+![Josue Sallent](https://punttic.gencat.cat/sites/default/files/styles/large/public/josue_01.jpg?itok=dCkhQHVO)
