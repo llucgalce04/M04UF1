@@ -15,7 +15,8 @@ XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza p
 > También hay ***etiquetas inpares***, que sólo tienen una etiqueta de apertura y no tienen una etiqueta de cierre correspondiente. Estas etiquetas se utilizan para indicar que un elemento no tiene contenido. La etiqueta de apertura para una etiqueta inpares se ve así:
 >
 >>**\<elemento/>**
-#Ejemplo de COdigo de XML
+
+# Ejemplo de COdigo de XML
 ```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 
