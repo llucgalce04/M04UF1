@@ -5,7 +5,7 @@
     <!-- COMENTARIO -->
     <age years="1200" />
     <race>Hada</race>
-    <class>Tanque</class>
+    <class>Tank</class>
     <gender abbrev="F">Female</gender>
     <height cm="25" />
     <weight kg="3.5" />
