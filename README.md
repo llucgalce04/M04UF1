@@ -12,7 +12,7 @@ XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza p
 >> En este ejemplo, "nombre" es el nombre de la etiqueta, "Juan" es el contenido de la etiqueta y la etiqueta completa es una etiqueta pareja, ya que hay una etiqueta de apertura "<nombre>" y una etiqueta de cierre "</nombre>".
 > También hay ***etiquetas inpares***, que sólo tienen una etiqueta de apertura y no tienen una etiqueta de cierre correspondiente. Estas etiquetas se utilizan para indicar que un elemento no tiene contenido. La etiqueta de apertura para una etiqueta inpares se ve así:
 >
->> \<elemento/>
+>>**\<elemento/>**
 
 ## DTD
 Los _apuntes de_ DTD
