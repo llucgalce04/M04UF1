@@ -39,4 +39,12 @@ Y [ESTO](https://enti.cat) es otro enlace.
 ```kotlin
 fun main(args: Array<String>) {
 
-	print("Hola Guapa")}
+	print("Hola Guapa")
+	}
+```
+### Lista de Tareas
+
+- [] Primera Tarea
+- [x] Segunda Tarea
+- [] Tercera Tarea
+
