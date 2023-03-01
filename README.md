@@ -34,6 +34,7 @@ y este [enlace](https://enti.cat) es otro enlace.
 ### EPICO
 
 ![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/039/761/nerdfacecover.jpg)
+![Prova GIF](https://media.tenor.com/5pPyel1fDSEAAAAC/nosacrifice-sjw.gif)
 
 ### Ejemplo de resaltado de sintaxis
 
