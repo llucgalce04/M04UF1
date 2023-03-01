@@ -31,8 +31,9 @@ Un enlace a la mejor web del mundo:
 Y [ESTO](https://enti.cat) es otro enlace.
 
 ## Imagen incrustada
+###EPICO
 
-![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/021/665/DpQ9YJl.png)
+![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/039/761/nerdfacecover.jpg)
 
 ### Ejemplo de resaltado de sintaxis
 
