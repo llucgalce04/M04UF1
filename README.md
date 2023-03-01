@@ -51,5 +51,4 @@ fun main(args: Array<String>) {
 
 ### Carácteres extendidos
 
-:poop: :alien: :cry: :imp: :eggplant: :fire:
- 
+:point_right: :flushed: :point_left:
