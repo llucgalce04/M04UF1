@@ -51,5 +51,5 @@ fun main(args: Array<String>) {
 
 ### Carácteres extendidos
 
-		:biting_lip: 
+		:flushed: 
 :point_right: :point_left:
