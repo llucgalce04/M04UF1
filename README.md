@@ -10,3 +10,9 @@ Aquí irán los apuntes de **XML**
 
 ## DTD
 Los _apuntes de_ DTD
+
+> Un gran poder conlleva 
+>
+> Una gran p...
+>
+> -Descartes 2004
