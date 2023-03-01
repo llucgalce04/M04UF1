@@ -28,4 +28,4 @@ Los _apuntes de_ DTD
 Un enlace a la mejor web del mundo:
 
 [CondorChem](https://condorchem.com)
-Y [ESTO] (https://enti.cat) es otro enlace.
+Y [ESTO](https://enti.cat) es otro enlace.
