@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <character>
+    <name>Messi</name>
+    <surname>Leo</surname>
+    <!-- COMENTARIO -->
+    <age years="50" />
+    <race>Gigante</race>
+    <class>Healer</class>
+    <gender abbrev="N">Non-Binary</gender>
+    <height cm="1.6" />
+    <weight kg="100" />
+    <language abbrev="EUK">Euskera</language>
+ </character>

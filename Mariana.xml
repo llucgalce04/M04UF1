@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <character>
+    <name>Mariana</name>
+    <surname>Rajoya</surname>
+    <!-- COMENTARIO -->
+    <age years="1200" />
+    <race>Hada</race>
+    <class>Tanque</class>
+    <gender abbrev="F">Female</gender>
+    <height cm="25" />
+    <weight kg="3.5" />
+    <language abbrev="ROU">Rumano</language>
+ </character>
