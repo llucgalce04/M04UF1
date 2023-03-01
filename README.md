@@ -34,7 +34,7 @@ Y [ESTO](https://enti.cat) es otro enlace.
 
 ![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/021/665/DpQ9YJl.png)
 
-### Ejemplo de resaktado de sintaxis
+### Ejemplo de resaltado de sintaxis
 
 ```kotlin
 fun main(args: Array<String>) {
