@@ -16,7 +16,7 @@ XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza p
 >
 >>**\<elemento/>**
 
-# Ejemplo de Codigo de XML
+### Ejemplo de Codigo de XML
 ```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 
@@ -73,12 +73,16 @@ XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza p
  </characters>
  ```
 
-## Enlaces
+
+### Enlaces
 
 Aquí os dejo un par de enlaces por si quereis mas informacion sobre XML:
+>
 [Enlace 1](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction)
 [Enlace 2](https://www.oreilly.com/library/view/c-in-a/0596001819/ch04s10.html)
 [Enlace 3](https://rockcontent.com/es/blog/que-es-xml/)
+
+---
 
 ## DTD
 Los _apuntes de_ DTD
@@ -94,6 +98,7 @@ Los _apuntes de_ DTD
 > Seguimos
 
 ---
+
 # MARKDOWN
 
 Un enlace a la mejor web del mundo:
