@@ -33,3 +33,10 @@ Y [ESTO](https://enti.cat) es otro enlace.
 ## Imagen incrustada
 
 ![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/021/665/DpQ9YJl.png)
+
+### Ejemplo de resaktado de sintaxis
+
+```kotlin
+fun main(args: Array<String>) {
+
+	print("Hola Guapa")}
