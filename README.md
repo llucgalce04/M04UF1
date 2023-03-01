@@ -52,3 +52,13 @@ fun main(args: Array<String>) {
 ### Carácteres extendidos
 
 :point_right: :flushed: :point_left:
+
+### Estilo de carácteres
+
+*cursiva* _cursiva_
+
+**negrita** _negrita_
+
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
