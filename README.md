@@ -1,152 +1,33 @@
-# Código y documentación M04-UF1
-Cyberseguridad: Llenguatge de Marques (M04-UF1)
+# **HTML Reshulón**
 
-## XML
-Aquí irán los apuntes de **XML**
+## **-¿Para qué usamos HTML?**
+HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para crear páginas web. Se utiliza para describir la estructura y el contenido de una página web mediante el uso de etiquetas
 
-XML, o Lenguaje de Marcado Extensible, es un formato de archivo que se utiliza para almacenar y llevar datos en un formato senzillo para todos. Las etiquetas son una de las cosas más importantes de XML y se utilizan para definir la estructura y el contenido de los datos.
-### Etiquetas Pares
-**Las etiquetas en XML siempre deben ser pares**, lo que significa que hay una etiqueta de apertura y una etiqueta de cierre. La etiqueta de apertura comienza con el símbolo "<" seguido del nombre de la etiqueta, y la etiqueta de cierre comienza con el símbolo "</" seguido del mismo nombre. Por ejemplo:
->
->**\<nombre>Juan\</nombre>**
->> En este ejemplo, "nombre" es el nombre de la etiqueta, "Juan" es el contenido de la etiqueta y la etiqueta completa es una etiqueta pareja, ya que hay una etiqueta de apertura "<nombre>" y una etiqueta de cierre "</nombre>".
-### Etiquetas Impares
->
-> También hay ***etiquetas inpares***, que sólo tienen una etiqueta de apertura y no tienen una etiqueta de cierre correspondiente. Estas etiquetas se utilizan para indicar que un elemento no tiene contenido. La etiqueta de apertura para una etiqueta inpares se ve así:
->
->>**\<elemento/>**
-
-### Ejemplo de Codigo de XML
-```XML
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<characters>
- 
-	<character id_character="1">
-		<name>Eustaquio</name>
-		<surname>Mendoza</surname>
-		<age years="197" />
-		<race>Enano</race>
-		<class>Artificiero</class>
-		<gender abbrev="">Non-Binary</gender>
-		<height cm="130" />
-		<weight kg="80" />
-		<language abbrev="prt">Portugues</language>
-	</character>
- 
-	<character id_character="2">
-		<name>Mariana</name>
-		<surname>Rajoya</surname>
-		<age years="1200" />
-		<race>Hada</race>
-		<class>Tanque</class>
-		<gender abbrev="F">Female</gender>
-		<height cm="25" />
-		<weight kg="3.5" />
-		<language abbrev="ROU">Rumano</language>
-	</character>
- 
-	<character id_character="3">
-		<name>Mortadelo</name>
-		<surname>Filemon</surname>
-		<age years="20" />
-		<race>Centauro</race>
-		<class>Arquero</class>
-		<gender abbrev="M">Male</gender>
-		<height cm="3.5" />
-		<weight kg="200" />
-		<language abbrev="ELL">Elingles</language>
-	</character>
-	
-	<character id_character="4">
-		<name>Messi</name>
-		<surname>Leo</surname>
-		<age years="50" />
-		<race>Gigante</race>
-		<class>Healer</class>
-		<gender abbrev="N">Non-Binary</gender>
-		<height cm="1.6" />
-		<weight kg="100" />
-		<language abbrev="EUK">Euskera</language>
-	</character>
-	
- </characters>
- ```
+## **-¿Para qué usamos CSS?**
+CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación y el diseño de una página web escrita en HTML. CSS se utiliza para controlar el aspecto visual de los elementos HTML en una página web, como el color, la fuente, el tamaño y la posición entre muchas mas cosas
+## **-¿Para qué usamos Javascript?**
+JavaScript es un lenguaje de programación de alto nivel utilizado para crear interactividad en páginas web. Se ejecuta en el navegador web del usuario y permite crear efectos visuales, animaciones, juegos, formularios dinámicos y otras funcionalidades avanzadas en una página web.
 
 
-### Enlaces
+## **-¿Cómo se relacionan los 3 lenguajes entre sí?**
+Estos tres lenguajes trabajan juntos para crear páginas web dinámicas y atractivas. Por ejemplo, se puede utilizar HTML para definir un botón en una página web, CSS para definir su aspecto visual y JavaScript para agregar un efecto de animación cuando el usuario hace clic en el botón. 
 
-Aquí os dejo un par de enlaces por si quereis mas informacion sobre XML:
->
-[Enlace 1](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction)
-[Enlace 2](https://www.oreilly.com/library/view/c-in-a/0596001819/ch04s10.html)
-[Enlace 3](https://rockcontent.com/es/blog/que-es-xml/)
-
----
-
-## DTD
-Los _apuntes de_ DTD
-
-> Un gran poder conlleva 
->
-> Una gran p...
->
-> -Descartes 2004
->
-> Esto es una cita
->> **Y esto una cita dentro de una cita**
-> Seguimos
-
----
-
-# MARKDOWN
-
-Un enlace a la mejor web del mundo:
-
-[CondorChem](https://condorchem.com)
-y este [enlace](https://enti.cat) es otro enlace.
-
-## Imagen incrustada
-### EPICO
-
-![Meme Maligno](https://i.kym-cdn.com/entries/icons/original/000/039/761/nerdfacecover.jpg)
-![Prova GIF](https://media.tenor.com/d914QufzT_QAAAAC/cat-epico-meme.gif)
+## **-Da ejemplos de 3 páginas que te gusten por su estilo. Pon una captura de cada y un enlace a la misma en la propia imagen.**
+1:[https://nude-project.com/ ](https://nude-project.com)
+2:[https://sonnyt.com/](https://sonnyt.com/)
+3:[https://www.w3schools.com/](https://www.w3schools.com/)
 
 
-### Ejemplo de resaltado de sintaxis
+## **-Da ejemplos de 3 páginas que te gusten por su estilo. Pon una captura de cada y un enlace a la misma en la propia imagen.**
 
-```kotlin
-fun main(args: Array<String>) {
+**1** 
+Animaciones CSS: Con CSS se pueden crear animaciones complejas y fluidas para elementos HTML. Por ejemplo, se puede animar la posición, el tamaño, la rotación o la opacidad de un elemento, o incluso crear animaciones más complejas como un cubo giratorio.
 
-	print("Hola Guapa")
-	}
-```
-### Lista de Tareas
+**2**
+Diseño responsive avanzado: CSS permite crear diseños responsive avanzados para adaptar el contenido a diferentes tamaños de pantalla. Esto se puede lograr mediante el uso de técnicas como flexbox, grid y media queries, que permiten definir diseños dinámicos que se adaptan automáticamente al tamaño de la pantalla.
 
-- [ ] Primera Tarea
-- [x] Segunda Tarea
-- [ ] Tercera Tarea
+**3**
+Efectos visuales complejos: CSS permite crear efectos visuales complejos como sombras, gradientes, transiciones y filtros. Por ejemplo, se puede crear una sombra suave y difusa alrededor de un elemento, o aplicar un efecto de desenfoque para crear una imagen borrosa.
 
-
-### Carácteres extendidos
-
-:point_right: :flushed: :point_left:
-
-### Estilo de carácteres
-
-*cursiva* _cursiva_
-
-**negrita** _negrita_
-
-~~TACHADO~~
-
-~~***tachado negrita y cursiva***~~
-
-### Tablas
-
-| id_character | name | age| level |
-| --- | --- | --- | --- |
-| 1 | Esutaquio | 197 | 99 |
-| 2 | Mariana | 20 | 100 |
-| 3 | Mortadelo | 100 | 1 |
-| 4 | Messi | 44 | 32 |
+**4**
+Diseño personalizado de formularios: CSS también permite personalizar completamente la apariencia de los formularios HTML, lo que puede ser útil para adaptarlos a la estética del sitio web. Por ejemplo, se puede modificar la apariencia de los botones, las cajas de texto, las casillas de verificación y los botones de opción, entre otros elementos.

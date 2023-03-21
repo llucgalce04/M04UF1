@@ -3,6 +3,7 @@
 <head>
     <title> Lluc Galceran Jodar: Alumne de Cyber de ENTI</title>
 	<link rel="stylesheet" href="style.css" />
+    <body class="animated-background">
     <script>
 function alerta_maxima(){
     alert("PAPU!!!!! NOS ANDAN JAKIANDOOOOOOO" )
@@ -45,31 +46,30 @@ else{
     console.log("El valor 2 es mas gradne")
 }*/
  
-function changeColor() {
+/*function changeColor() {
       var colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]; // arreglo de colores
         var randomColor = colors[Math.floor(Math.random() * colors.length)]; // se obtiene un color aleatorio del arreglo
        document.body.style.background = randomColor; // se asigna el color aleatorio al fondo de la página
    }
-   setInterval(changeColor, 100);
+   setInterval(changeColor, 100);*/
 
 /*function saluda (nombre){
     console.log("ola k ase", nombre);
 }
 saluda("Ian");*/
 
-let the_grefg = 0;
 
-function cuenta(){
-    the_grefg++;
-    
-    document.getElementById("numerito").innerHTML +=" "+the_grefg;
 
-    console.log(the_grefg);
-
-    if(the_grefg == 10){
-        alert("NOS JAQUIARON")
-    }
+function generarNumero() {
+  let numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+  document.getElementById("numerito").innerHTML = " " + numeroAleatorio;
 }
+
+
+    /*if(the_grefg == 10){
+        alert("NOS JAQUIARON")
+    }*/
+
 </script>
 </head>
 <body>
@@ -77,28 +77,32 @@ function cuenta(){
 <h1>Lluc Galceran</h1>
 <p>Alumne de Enti, de dia malo en el lol y de noche hacker</p>
 </header>
+<nav>
+    <ul>
+        <li><a href="hobbies.html">Hobbies</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <li><a href="contactos.html">Contactos</a></li>
+        
+    </ul>
+    </nav>
+   
+    <iframe width="1900" height="800" src="https://www.youtube.com/embed/7lQfj-_8Zg0?autoplay=1&mute=1">
+    </iframe>
 
 <form>
-
-<p id="numerito">0</p>
-<input type="button" value="CLICKA AQUI" onClick="cuenta();"/>
+<p id="numerito"></p>
+<input type="button" value="CLICKA AQUI" onClick="generarNumero();"/>
 </form>
 
-<nav>
-<ul>
-<li><a href="cv.html"><abbr title="Curriculum Vitae">CV</abbr></a></li>
-<li><a href="hobbies.html"><abbr= title="Hobbies">Hobbies</abbr></a></li></li>
-<li><a href="contactos.html"><abbr title="Contactos">Contactos</abbr></a></li></li>
-</ul>
-</nav>
+
 	<main>
 		<h2>Estudiante en:</h2>
 		<p>ENTI, Escoles Noves Tecnologíes de la Informació</h2>
 		
 		<blockquote>
-		I can breath. 
+		Aaaaaaaaaaaaaa es un tio. 
         <p></p>
-        <em>George Floyd</em>
+        <em>Willyrex</em>
 		</blockquote>
 			
 		<h2>Ficha + Foto</h2>
@@ -166,6 +170,6 @@ function cuenta(){
 
 <footer>
 	<h2> Informacion Extra</h2>
-	<p>Lluc Galceran (c) 2023</p>
+	<p> Lluc Galceran (c) 2023 </p>
 	</footer>
 </html>
