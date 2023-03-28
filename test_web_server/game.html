@@ -38,6 +38,10 @@ else{
 
 }
 
+function cambia() {
+	document.getElementById("boton_color").style.color = "red"
+}
+
 
 </script>
 </head>
@@ -62,6 +66,8 @@ else{
 	<p id="resultado"> Introduce un numero</p>
 	<p><input type="text" id="numero_jugador"/></p>
 	<p><input type="button" value="¡Adivina!" onClick="check_number();" /></p>
+
+	<p><input type="button" value="Cambai el Color" id="boton_color" onclick="cambia"></p>
 	</form>
 
 	</main>
