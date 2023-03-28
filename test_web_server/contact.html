@@ -24,19 +24,19 @@
 
 <h2>Formulario de Contacto</h2>
 <form>
-<p><label for="nombre">Nombre: </label><input type="text" name"contact_name" id="nombre" /></p>
+<p><label for="nombre">Nombre: </label><input type="text" name"contact_name" id="nombre" required /></p>
 
-<p><label for="apellidos">Apellidos: </label><input type="text" name"contact_surnames" id="apellidos" /></p>
+<p><label for="apellidos">Apellidos: </label><input type="text" name"contact_surnames" id="apellidos" required /></p>
 
-<p><label for="fecha_nacimiento">Fecha de Nacimiento:</label><input type="date" name"fecha_nacimiento" id="fecha_nacimiento" /></p>
+<p><label for="fecha_nacimiento">Fecha de Nacimiento:</label><input type="date" name"fecha_nacimiento" id="fecha_nacimiento" required /></p>
 
-<p><label for="email">Email: </label><input type="email" name"contact_email" id="email" /></p>
+<p><label for="email">Email: </label><input type="email" name"contact_email" id="email" required/></p>
 
-<p><label for="color_ojos">Color de Ojos: </label><input type="color" name"color_ojos" id="color_ojos" /></p>
+<p><label for="color_ojos">Color de Ojos: </label><input type="color" name"color_ojos" id="color_ojos" required/></p>
 
 <p><label for="signo">Signo del Zodiaco:</label>
 
-<select name="contact_zodiaco" id="signo">
+<select name="contact_zodiaco" id="signo" required>
   <option value="aries">Aries</option>
   <option value="tauro">Tauro</option>
   <option value="geminis">Géminis</option>
@@ -53,7 +53,7 @@
 </p>
 
 
-<p><input type="submit" value="Enviar" /></p>
+<p><input type="submit" value="Enviar" required /></p>
 <p><input type="reset" value="Borrar Todo" /></p>
 </form>
 	</main>
