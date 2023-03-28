@@ -9,6 +9,23 @@
 <script>
 
 let numero = Math.floor(Math.random() * 100) +1;
+
+let contador = 10;
+
+
+function cuenta ()
+{
+	contador--;
+	document.getElementById("contador").innerHTML = contador;
+
+	if (contador == 0){
+	
+		alert("HOLA");
+	}
+}
+
+setInterval(cuenta,1000);
+
 function check_number (){
 
 console.log(numero);
@@ -41,6 +58,7 @@ else{
 function cambia_color () 
 {
 	document.getElementById("boton_color").style.backgroundColor = "red";
+	document.getElementById("boton_color").style.color = "green";
 }
 
 
@@ -68,7 +86,9 @@ function cambia_color ()
 	<p><input type="text" id="numero_jugador"/></p>
 	<p><input type="button" value="¡Adivina!" onClick="check_number();" /></p>
 
-	<p><input type="button" value="Cambia el Color" id="boton_color" onclick="cambia_color"/></p>
+	<p><input type="button" value="Cambia el Color" id="boton_color" onclick="cambia_color();"/></p>
+	
+<p id="contador">10</p>
 	</form>
 
 	</main>
